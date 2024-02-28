@@ -3,6 +3,10 @@ RENCANA KEHIDUPAN ANDRE
 - DATA SCIENCE
   * Python
   * matchine learning
+   ^ Python
+   ^ Matloplib
 - TNI
 - POLRI
+   ^ GAS
 - DRIVER MUDA
+- Python
