@@ -3,9 +3,10 @@ RENCANA KEHIDUPAN ANDRE
 - DATA SCIENCE
   * Python
   * matchine learning
-   ^ fortuner
-   ^ land cruiser
+   ^ Python
+   ^ Matloplib
+- TNI
 - POLRI
-   ^ python
    ^ GAS
 - DRIVER MUDA
+- Python
